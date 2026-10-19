@@ -8,9 +8,9 @@
 
 🐍 Atualmente estudando Python desde o básico, com o objetivo de construir APIs com FastAPI.
 
-📚 Estudando lógica de programação, modelagem de banco de dados e boas práticas de Git, e documentando meus projetos aqui no GitHub.
+📚 Estudando lógica de programação, modelagem de banco de dados e boas práticas de Git, documentando meus projetos aqui no GitHub.
 
-💼 Em busca de uma vaga de estágio em desenvolvimento Backend.
+💼 Em busca de uma oportunidade de estágio em desenvolvimento Backend.
 
 ---
 
@@ -30,9 +30,16 @@ Próximos passos: SQLAlchemy, testes com pytest e autenticação com JWT.
 
 ---
 
-🚀 **Projeto em destaque:**
+🚀 **Projetos em destaque:**
 
-[**api-campo-minado**](https://github.com/iandreluixz/api-campo-minado): API REST em Node.js e PostgreSQL para um jogo de campo minado, com cadastro e login, controle de saldo, partidas e regras de negócio.
+### 🎮 [api-campo-minado](https://github.com/iandreluixz/api-campo-minado)
+API REST em Node.js e PostgreSQL para um jogo de campo minado, com cadastro e login, controle de saldo, partidas e regras de negócio.
+
+### 🐍 [jogo-da-cobrinha](https://github.com/iandreluixz/jogo-da-cobrinha)
+Projeto de jogo da cobrinha, demonstrando conhecimentos em lógica de programação e desenvolvimento de aplicações.
+
+### 💈 [agenda_barbearia](https://github.com/iandreluixz/agenda_barbearia)
+Sistema de agendamento para barbearia, desenvolvido com Node.js, TypeScript e PostgreSQL, com regras de agendamento, banco de dados e envio de e-mails.
 
 ---
 
